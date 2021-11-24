@@ -1,0 +1,11 @@
+
+$color: red;
+.myDiv{ 
+    color: $color;
+    height: 500px;
+    background-image: url('../../assets/city.png');
+    
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
